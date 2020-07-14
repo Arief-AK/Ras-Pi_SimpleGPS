@@ -1,5 +1,5 @@
 # Ras-Pi_SimpleGPS
-A "Simple" GPS driver for the RaspberryPi using WiringPi.
+A "Simple" GPS driver for communicating with RaspberryPi using WiringPi.
 
 **@Brief**
 The purpose of this library is to establish serial communication with GPS device and apply
