@@ -4,7 +4,7 @@ A "Simple" GPS driver for communicating with RaspberryPi using WiringPi.
 **@Brief**
 The purpose of this library is to establish serial communication with a GPS device and apply
 basic NMEA sentence parsing functions. This library is written in C++ to support serial
-communication with RaspberryPi modules. With a little tweaking "SimpleGPS" driver can be
+communication with RaspberryPi modules. With a little tweaking, "SimpleGPS" driver can be
 used to handle NMEA sentences from a standard serial communicating GPS device.
 Run-down of "SimpleGPS" driver is summarised below:
 
